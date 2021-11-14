@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.chezlartisan.ma	TRUE	/	FALSE	1999999999	o2s-chl	b9521ad0bed4a147002ab5460556b1553bb5bab721a7d9edacb59a17967f7522
+www.chezlartisan.ma	TRUE	/	FALSE	1999999999	SameSite	Lax
+
